@@ -1,10 +1,17 @@
 # 1. 프로젝트 소개
 
+
 # 2. 팀 소개
+Park Haemi, hmpark042@gmail.com, Unity 개발 및 IMU Fusion 분석
+
+Park Minsu, , BLE를 이용한 센서/Gateway 통신 및  소켓 통신 개발
+
 
 # 3. 구성도
 
+
 # 4. 소개 및 시연 영상
+
 
 # 5. 사용법
 본 프로젝트는 Window 환경에서 Motion Capture 디렉토리 안에 있는 MotionCapture.exe 파일을 실행하여 사용할 수 있습니다.
