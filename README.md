@@ -4,7 +4,7 @@
 # 2. 팀 소개
 Park Haemi, hmpark042@gmail.com, Unity 개발 및 IMU Fusion 분석
 
-Park Minsu, , BLE를 이용한 센서/Gateway 통신 및  소켓 통신 개발
+Park Minsu, , mingmaeng98@gmail.com, BLE를 이용한 센서/Gateway 통신 및  소켓 통신 개발
 
 
 # 3. 구성도
