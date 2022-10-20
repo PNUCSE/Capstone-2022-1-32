@@ -35,7 +35,8 @@ Park Minsu, , mingmaeng98@gmail.com, BLE를 이용한 센서/Gateway 통신 및 
 * 게이트웨이의 Address와 Port 번호로 소켓 통신을 연결하여 데이터를 받아올 수 있습니다.
 
 # 4. 소개 및 시연 영상
-![32조 인체의 움직임을 디지털 형태로 기록하는 모션 캡처 시스템 개발](http://img.youtube.com/vi/voVcvT9WUGQ/0.jpg)
+
+[![32조 인체의 움직임을 디지털 형태로 기록하는 모션 캡처 시스템 개발](http://img.youtube.com/vi/voVcvT9WUGQ/0.jpg)](https://www.youtube.com/watch?v=voVcvT9WUGQ)
 
 
 # 5. 사용법
